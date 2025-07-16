@@ -15,7 +15,7 @@ setup(
     description='Automation tool to scaffold deep learning project directory structure',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/charlesjeyaseelan/neuralinit',
+    url='https://github.com/CHARLESJEYASEELAN/neuralinit_for_Py_PI',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
